@@ -1,16 +1,22 @@
-# shopapp
+## About🤠
+E-commerce app using Bloc and API
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Benfit👻
+- [🆗] OnBoarding
+- [🆗] Login Screen
+- [🆗] Register Screen
+- [🆗] Home Page
+- [🆗] Categories Page
+- [🆗] Search Page
+- [🆗] Favourites Page
+- [🆗] Change password Page
+- [🆗] Settings Page
+- [🆗] Update user details Page
+- [x] [GetX]
+- [x] [Bloc-cubit]
+- [x] MVC patterns
+- [x] Api Handling With Dio.
+- [x] Shared Preferences
+- [x] Fixing bugs, reviewing code 
+- [x] Smooth page indicator, Carousel slider
+- [x] Dealing with Postman
